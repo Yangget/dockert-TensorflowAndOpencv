@@ -26,7 +26,7 @@ RUN apt update && apt install -y \
 RUN apt-get install -y \
     libswscale-dev libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev \
     libjasper-dev libavformat-dev libpq-dev libxine2-dev libglew-dev \
-    libtiff5-dev zlib1g-dev libjpeg-dev libjasper-dev \
+    libtiff5-dev zlib1g-dev libjpeg-dev \
     libavcodec-dev libavformat-dev libavutil-dev libpostproc-dev \
 	  libswscale-dev libeigen3-dev libtbb-dev libgtk2.0-dev 
 
