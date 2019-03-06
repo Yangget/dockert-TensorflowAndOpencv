@@ -142,10 +142,6 @@ RUN pip3 --no-cache-dir install \
     scikit-learn \
     theano \
     keras \
-    scipy \
-    pandas \
-    matplotlib \
-    seaborn \
     pillow \
     py3nvml
 
